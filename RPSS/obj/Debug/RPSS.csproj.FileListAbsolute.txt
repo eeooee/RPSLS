@@ -1,0 +1,6 @@
+c:\users\eeeeee\documents\visual studio 2015\Projects\RPSS\RPSS\bin\Debug\RPSS.exe.config
+c:\users\eeeeee\documents\visual studio 2015\Projects\RPSS\RPSS\bin\Debug\RPSS.exe
+c:\users\eeeeee\documents\visual studio 2015\Projects\RPSS\RPSS\bin\Debug\RPSS.pdb
+c:\users\eeeeee\documents\visual studio 2015\Projects\RPSS\RPSS\obj\Debug\RPSS.exe
+c:\users\eeeeee\documents\visual studio 2015\Projects\RPSS\RPSS\obj\Debug\RPSS.pdb
+C:\Users\eeeeee\Documents\Visual Studio 2015\Projects\RPSS\RPSS\bin\Debug\RPSLS.exe.config
